@@ -1,3 +1,3 @@
-Finelli Fabrizio
+Casado Santino
 ------------------
 ![Parcial](Uml_PrimerParcial.png)
